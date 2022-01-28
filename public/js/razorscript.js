@@ -30,7 +30,7 @@ sendRequest().then((response)=>{
     "currency":currency,
     "name": "DSA Course",
     "description": "Pay & Checkout this Course, Upgrade your DSA Skill",
-     "image": "https://media.geeksforgeeks.org/wp-content/uploads/20210806114908/dummy-200x200.png",
+     "image": "https://avatars.githubusercontent.com/u/7713209?s=280&v=4" || "",
     "order_id": id,  
     "handler": function (response){
 
